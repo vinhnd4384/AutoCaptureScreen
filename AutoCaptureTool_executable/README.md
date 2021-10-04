@@ -15,7 +15,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 		+ [F and G column - folder path] : Username / password to login website if this website use prompt alert when initilize site
 		+ [H column - Have Popup] : don't use currently
 3.	Copy [AutoCaptureTool] to local and locate anywhere you want. But prefer  in [C:\\AutoCaptureTool]
-		+ Path: https://eastgatesoftware.sharepoint.com/sites/ProjectReinstil-Websites/Shared%20Documents/Forms/AllItems.aspx?viewid=db755e55%2Df554%2D40a5%2D9456%2D31dece3b4136&id=%2Fsites%2FProjectReinstil%2DWebsites%2FShared%20Documents%2FGeneral%2FTesting%2FAutoCaptureTool
+		+ Path: 
 4. 	How to run:
 		+ Click [run_AutoCaptureTool.bat]
 		+ When batch run completedly, you can view result. You could view log file in folder [AutoCaptureTool/log]
